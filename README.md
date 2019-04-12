@@ -8,7 +8,7 @@ GUI for viewing stock data from CSV files
 - Design and UI improvement
 
 ## Application Interface Guide & Screenshots
-![Main Screen](/screenshots/MainStockScreen.png "Main Stock Screen" | width=100)
+![Main Screen](/screenshots/MainStockScreen.png "Main Stock Screen")
 
 When the application is opened the user is shown the main stock screen, this displays all of the stocks in a table with Company Name, Stock Symbol and Latest Share Price all shown. 
 
